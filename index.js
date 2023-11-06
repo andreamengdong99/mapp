@@ -21,12 +21,12 @@ const config = {
   /**
    * This sets the title in the sidebar and the <title> tag of the app
    */
-  title: 'PM2.5',
+  title: 'Air Pollution trends from 1998 to 2020',
   /**
    * This sets the description in the sidebar
    */
   description:
-    'This map shows estimated voter turnout as a percentage of total population in 2016, select a county to visualize historical data',
+    'This map shows the air pollution trends from 1998 to 2020 according to the annual average ground-level of fine particulate matter (PM 2.5) within the African urban areas.',
   /**
    * Data fields to chart from the source data
    */
